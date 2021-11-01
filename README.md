@@ -1,4 +1,6 @@
-# Tech-Blog [![license](https://img.shields.io/badge/license-MIT-orange)](https://shields.io)
+ [![license](https://img.shields.io/badge/license-MIT-orange)](https://shields.io) 
+  
+# Tech-Blog
  
 ## Table of Contents 
 [Description](#description)  
